@@ -1,0 +1,11 @@
+body{
+    background-color: #4a747a62;
+}
+
+#formulario-perguntas {
+    margin-top: 2vh;
+}
+
+#lbl_perguntar {
+    color: white;
+}
